@@ -26,7 +26,7 @@ if answer == "Yes":
         print(line, end="\r")
         time.sleep(2.5)
 
-    print_short_sleep("Eventually, your parents intervene. \"" + player_name + ", I\'ve had enough!\" they shout.")
+    print_short_sleep("Eventually, your parents intervene. \"" + player_name + ", We\'ve had enough!\" they shout.")
     print_short_sleep("\"All you do is laze about in your bedroom, leeching off our income like a damm parasite!\"")
 
     print("")
@@ -72,7 +72,15 @@ if answer == "Yes":
                             for line in lines[77:94]:
                                 print(line, end="\r")
                                 time.sleep(2.5)
-                            input("")
+                            answer = "Yes" or "No"
+                            while answer == "Yes" or "No":
+                                answer = input("Do you want to continue? (Yes/No)")
+                                if answer == "Yes":
+                                    print("")
+                                elif answer == "No":
+                                    break
+                                else:
+                                    print("Buh?")
                             break
 
                         elif question3 == 3:
@@ -80,7 +88,15 @@ if answer == "Yes":
                             for line in lines[61:75]:
                                 print(line, end="\r")
                                 time.sleep(2.5)
-                            input("")
+                            answer = "Yes" or "No"
+                            while answer == "Yes" or "No":
+                                answer = input("Do you want to continue? (Yes/No)")
+                                if answer == "Yes":
+                                    print("")
+                                elif answer == "No":
+                                    break
+                                else:
+                                    print("Buh?")
                             break
 
                         else:
@@ -93,7 +109,15 @@ if answer == "Yes":
                     for line in lines[77:94]:
                         print(line, end="\r")
                         time.sleep(2.5)
-                    input("")
+                    answer = "Yes" or "No"
+                    while answer == "Yes" or "No":
+                        answer = input("Do you want to continue? (Yes/No)")
+                        if answer == "Yes":
+                            print("")
+                        elif answer == "No":
+                            break
+                        else:
+                            print("Buh?")
                     break
 
                 elif question2 == 3:
@@ -105,7 +129,15 @@ if answer == "Yes":
                     for line in lines[106:111]:
                         print(line, end="\r")
                         time.sleep(2.5)
-                    input("")
+                    answer = "Yes" or "No"
+                    while answer == "Yes" or "No":
+                        answer = input("Do you want to continue? (Yes/No)")
+                        if answer == "Yes":
+                            print("")
+                        elif answer == "No":
+                            break
+                        else:
+                            print("Buh?")
                     break
 
                 else:
@@ -118,10 +150,18 @@ if answer == "Yes":
             for line in lines[102:111]:
                 print(line, end="\r")
                 time.sleep(2.5)
-            input("")
+            answer = "Yes" or "No"
+            while answer == "Yes" or "No":
+                answer = input("Do you want to continue? (Yes/No)")
+                if answer == "Yes":
+                    print("")
+                elif answer == "No":
+                    break
+                else:
+                    print("Buh?")
             break
 
-        else:
+    else:
             print("Buh?")
 
 
