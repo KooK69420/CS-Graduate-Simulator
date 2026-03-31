@@ -1,0 +1,113 @@
+Intro:
+You are [Name]. 
+You just graduated from your three year BSc Computer Science Degree.
+Unfortunately, the j*b market has been remarkably unsuccessful. You are, as the kids say, deeply cooked.
+After hundreds of thousands of j*b applications, you are without success.
+To take your mind off the failed j*b hunt, you go all in on being an unemployed loser chud.
+You sit in your mother's basement playing diddyblud VN's, gooning to your AI girlfriend and 'Coding the next indie smash hit'.
+Eventually, your parents intervene. "[Name], we've had enough!" they shout.
+"All you do is laze about in your bedroom, leeching off our income like a damm parasite!"
+
+...You rise, stretching your arms. Every limb feels like a door on a rusty hinge, about to fall off.
+Yesterday's nightmare feels like a distant memory. Your eyes slowly focus as you wipe the scum from your eyes.
+A draught of wind almost knocks you off your feet.
+You brush the dirt off your trousers, surveying the bridge you were sleeping under.
+Unfortunately, your 'nightmare' is a well night's rest compared to the reality you live in.
+
+You listlessly wander to the nearest Homeless Shelter, hoping to grab a bite.
+You stare at the kitchen, groaning in horror.
+...It seems that, due to your CS Student sleep schedule, you missed the breakfast period. Drat.
+
+However, in the seating area, you see... a woman!?
+You marvel at her coffee coloured hair, awooga at her gacha-game-five-star physisque.
+Her face is covered in dirt and wrinkles, taking you back to all those all-nighters with your classmates.
+More importantly, there's a steaming plate of food in front of her.
+She must have been the last order.
+...It takes a while to think of what to say. You haven't talked to a woman since, what, Year 11?
+
+What do you do?:
+1) Stammer out a greeting to her.
+2) Leave her and return to the streets.
+(Type either 1 or 2):
+
+Q1.1:
+"She squints at you in suspicion. "...What do you want?"
+1) Ask her for a share of her food.
+2) Flex on her with your CS knowledge. See if she knows ball.
+3) Try to take her food by force.
+(Type either 1, 2 or 3):
+
+Q2.1:
+You muster up the courage to ask her for some of her food. She's confused.
+"I'm starving as much as you are. Why should I give you some of my food?":
+1) Swallow your pride, and talk to her as an equal.
+2) Flex on her with your CS knowledge. See if she knows ball.
+3) Flirt with her
+
+3.1:
+With a shuddering breath, you explain your situation.
+You don't hold anything back, and even tell her the parts of yourself that keep you up at night.
+She smiles, and starts talking about herself too.
+Apparently she was an English Graduate, and just couldn't sink her teeth into the stagnating market.
+You two realise that you have much in common, and share a meal together.
+
+Stomach half-full, you leave, knowing you'll probably never see her again.
+Tomorrow may not be very different from today, but at least you got to talk to someone interesting along the way.
+(Good Ending)
+
+3.2:
+#Take dialogue from Q2.2
+
+3.3:
+"Well, I can't let a pretty girl like you eat on her own, can I?"
+She's shocked for a second, but immidiately snaps out of it.
+"You creep! I KNOW you're just saying that to sleep with me!
+You reek, and I know you have some nasty STD! Go away!"
+
+She raises a fist, shooing you away from her food.
+
+You dash out of the Homeless Shelter, screaming.
+It's your first time getting rejected by a woman...
+
+When it gets dark, you crumple to the ground, howling.
+
+"If even a homeless girl doesn't want me, what hope is there in life!?"
+(Bad Ending - Kissless Hugless Handholdless Virgin)
+
+Q2.2:
+"D-do you know what Leetcode is?"
+"Huh!?" She's clearly not impressed, but you carry on regardless.
+"Leetcode is this website where you do small coding challenges..."
+She scrunches her face in confusion. Your voice starts to sound less confident.
+"It's used in lots of entry-level job recruitments. There are three different difficulties: Easy, Med-"
+"Why are you talking to me!?"
+She raises a fist, shooing you away from her food.
+
+You dash out of the Homeless Shelter, screaming.
+It's your first time getting rejected by a woman...
+
+You're half-blind with tears, and you don't see the truck barreling towards you.
+
+...I guess you can't Leetcode Medium your way into getting food at the homeless shelter.
+
+Ah well. Maybe you'll do better in the next life.
+(Bad Ending - Isekai)
+
+
+Q2.3:
+As your hand darts towards her uneaten food, she yells and bats your hand away.
+Terrified and half-delirious from hunger, you flee the Homeless Shelter.
+#Take dialogue from Q1.2
+
+Q1.2:
+You splutter for a couple seconds.
+You turn away from her, and stumble back to the streets.
+
+After a while, you trip over, crumpling onto some stairs in exhaustion.
+Tears well up in your eyes. You contemplate on where it all went wrong.
+
+As you stare towards the sky, powdery snow starts to fall on your face.
+You close your eyes. You feel so, so tired.
+(Bad Ending - Starvation)
+
+End of text
