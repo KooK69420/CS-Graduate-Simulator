@@ -74,7 +74,7 @@ if answer == "Yes":
                                 time.sleep(2.5)
                             answer = "Yes" or "No"
                             while answer == "Yes" or "No":
-                                answer = input("Do you want to continue? (Yes/No)")
+                                answer = input("Do you want to continue? (Yes/No)").capitalize
                                 if answer == "Yes":
                                     print("")
                                 elif answer == "No":
@@ -90,7 +90,7 @@ if answer == "Yes":
                                 time.sleep(2.5)
                             answer = "Yes" or "No"
                             while answer == "Yes" or "No":
-                                answer = input("Do you want to continue? (Yes/No)")
+                                answer = input("Do you want to continue? (Yes/No)").capitalize
                                 if answer == "Yes":
                                     print("")
                                 elif answer == "No":
@@ -111,7 +111,7 @@ if answer == "Yes":
                         time.sleep(2.5)
                     answer = "Yes" or "No"
                     while answer == "Yes" or "No":
-                        answer = input("Do you want to continue? (Yes/No)")
+                        answer = input("Do you want to continue? (Yes/No)").capitalize
                         if answer == "Yes":
                             print("")
                         elif answer == "No":
@@ -131,7 +131,7 @@ if answer == "Yes":
                         time.sleep(2.5)
                     answer = "Yes" or "No"
                     while answer == "Yes" or "No":
-                        answer = input("Do you want to continue? (Yes/No)")
+                        answer = input("Do you want to continue? (Yes/No)").capitalize
                         if answer == "Yes":
                             print("")
                         elif answer == "No":
@@ -152,7 +152,7 @@ if answer == "Yes":
                 time.sleep(2.5)
             answer = "Yes" or "No"
             while answer == "Yes" or "No":
-                answer = input("Do you want to continue? (Yes/No)")
+                answer = input("Do you want to continue? (Yes/No)").capitalize
                 if answer == "Yes":
                     print("")
                 elif answer == "No":
